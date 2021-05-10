@@ -1,0 +1,10 @@
+GET    api/products
+POST   api/products
+GET   'api/product/:id/
+POST  'api/product/:id/
+PUT   'api/product/:id/    
+POST  'api/warehouse/create'
+POST  'api/warehouse/addproduct'    
+POST  'api/warehouse/removeproduct'
+POST  'api/warehouses'
+POST  'api/warehouse/<int:pk>
